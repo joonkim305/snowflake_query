@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/snowflake_query/__init__.py
+src/snowflake_query/snowflake_query.py
+src/snowflake_query_joon_kim.egg-info/PKG-INFO
+src/snowflake_query_joon_kim.egg-info/SOURCES.txt
+src/snowflake_query_joon_kim.egg-info/__init__.py
+src/snowflake_query_joon_kim.egg-info/dependency_links.txt
+src/snowflake_query_joon_kim.egg-info/top_level.txt
