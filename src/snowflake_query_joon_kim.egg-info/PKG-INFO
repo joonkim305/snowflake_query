@@ -1,13 +1,11 @@
 Metadata-Version: 2.1
 Name: snowflake-query-joon-kim
-Version: 0.0.2
+Version: 0.0.4
 Summary: Connect to Snowflake and Run Query
-Home-page: https://github.com/pypa/sampleproject
+Home-page: https://github.com/joonkim305/snowflake_query
 Author: Joon Kim
-Author-email: joon@luckyday.com
-License: UNKNOWN
+Author-email: bk268@cornell.edu
 Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
-Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
@@ -18,6 +16,9 @@ License-File: LICENSE
 # Query from Snowflake
 
 Assists Snowflake query from Python
+
 Outputs query results in Pandas DataFrame
+
 Uses unencrypted private key for Snowflake credentials
 
+https://docs.snowflake.com/en/user-guide/key-pair-auth.html#step-1-generate-the-private-key
